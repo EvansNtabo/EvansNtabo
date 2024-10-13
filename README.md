@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EvansNtabo
+- 👋 Hi, I’m Evans Ntabo
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Algorithms
 - 💞️ I’m looking to collaborate with developers, QA, security professionals, product managers, designers, and team leads
